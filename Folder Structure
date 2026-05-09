@@ -1,0 +1,42 @@
+vetscribe-ai/
+├── app/
+│   ├── api/
+│   │   └── waitlist/
+│   │       └── route.ts
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── components/
+│   ├── ui/
+│   │   ├── background-glow.tsx
+│   │   ├── feature-card.tsx
+│   │   ├── floating-card.tsx
+│   │   ├── faq-item.tsx
+│   │   ├── section-heading.tsx
+│   │   ├── stat-card.tsx
+│   │   └── testimonial-card.tsx
+│   │
+│   ├── faq.tsx
+│   ├── features.tsx
+│   ├── final-cta.tsx
+│   ├── footer.tsx
+│   ├── hero.tsx
+│   ├── social-proof.tsx
+│   └── waitlist-form.tsx
+│
+├── lib/
+│   └── utils.ts
+│
+├── public/
+│   └── og-image.png
+│
+├── .env.local
+├── components.json
+├── next.config.mjs
+├── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.json
+└── README.md
